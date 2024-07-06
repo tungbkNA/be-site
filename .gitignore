@@ -37,3 +37,6 @@ volumes/
 
 src/main/resources/application-van.yml
 src/main/resources/application.yml
+src/main/resources/application-dev.yml
+src/main/resources/application-long.yml
+src/main/resources/application-prod.yml
