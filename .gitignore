@@ -38,5 +38,7 @@ volumes/
 src/main/resources/application-van.yml
 src/main/resources/application.yml
 src/main/resources/application-dev.yml
+src/main/resources/image-cloud-98533-firebase-adminsdk-egb09-95daffa97d.json
+src/main/resources/bonik-f7b39-firebase-adminsdk-74rcu-82b22fbb2e.json
 src/main/resources/application-long.yml
 src/main/resources/application-prod.yml
