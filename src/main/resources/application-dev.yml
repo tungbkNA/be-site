@@ -60,16 +60,4 @@ spring:
     oauth2:
       authorizedRedirectUris:
         - http://localhost:3000/
-  security:
-    oauth2:
-      client:
-        registration:
-          google:
-            client-id: 810401209445-amhdn90r6918a3uo0sg8rtmcr1l16pfs.apps.googleusercontent.com
-            client-secret: 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
-            redirect-uri: "{baseUrl}/oauth2/callback"
-            scope:
-              - email
-              - profile
-
 
